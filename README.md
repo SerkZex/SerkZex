@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Sweden</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=serkzex alt=serkzex/> </p>
 
-- 👨‍💻 My current fulltime job **Software Engineer in Adaptive AUTOSAR (VECTOR Sweden)**
+- 👨‍💻 My current fulltime job [**Software Engineer in Adaptive AUTOSAR (VECTOR Sweden)**](https://www.vector.com/int/en/)
 
 - 🔭 I’m currently working on **ReStructuredText Generator (Not released yet)**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **How to find Stackoverflow**
 
-- 📫 How to reach me **/in/mujtabaaldebes/**
+- 📫 How to reach me [**/in/mujtabaaldebes/**](https://www.linkedin.com/in/mujtabaaldebes/)
 
 - ⚡ Fun fact **Some People Think Stormy Weather Affects Cloud Computing.**
 
