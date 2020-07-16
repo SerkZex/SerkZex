@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Aldbes</h1>
 <h3 align="center">A passionate full stack developer from Sweden</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=serkzex alt=serkzex/> </p>
 
 - 👨‍💻 My current fulltime job [**Software Engineer in Adaptive AUTOSAR (VECTOR Sweden)**](https://www.vector.com/int/en/)
 
 - 🔭 I’m currently working on **ReStructuredText Generator (Not released yet)**
 
-- 🌱 I’m currently learning **Web browser userscripts**
+- 🌱 I’m currently learning [**Web browser userscripts**](https://github.com/SerkZex/TamperMonkey-scripts)
 
 - 💬 Ask me about **How to find Stackoverflow**
 
