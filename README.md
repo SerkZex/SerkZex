@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **How to find Stackoverflow**
 
-- 📫 How to reach me [**/in/mujtabaaldebes/**](https://www.linkedin.com/in/mujtabaaldebes/)
+- 📫 How to reach me **mujtaba.aldebes@gmail.com**
 
 - ⚡ Fun fact **Some People Think Stormy Weather Affects Cloud Computing.**
 
