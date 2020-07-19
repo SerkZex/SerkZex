@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mujtaba Aldbes</h1>
-<h3 align="center">A passionate full stack developer from Sweden</h3>
-
 - 👨‍💻 My current fulltime job [**Software Engineer in Adaptive AUTOSAR (VECTOR Sweden)**](https://www.vector.com/int/en/)
 
 - 🔭 I’m currently working on **ReStructuredText Generator (Not released yet)**
