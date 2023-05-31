@@ -1,6 +1,6 @@
 - 👨‍💻 My current fulltime job [**Software Engineer in Adaptive AUTOSAR (VECTOR Sweden)**](https://www.vector.com/int/en/)
 - 🔭 I’m currently working on **ReStructuredText Generator (Not released yet)**
-- 🌱 I’m currently learning [**Web browser userscripts**](https://github.com/SerkZex/TamperMonkey-scripts)
+- 🌱 I’m currently learning web and app development
 - 💬 Ask me about **How to find Stackoverflow**
 - 📫 How to reach me **mujtaba.aldebes@gmail.com**
 - ⚡ Fun fact **Some People Think Stormy Weather Affects Cloud Computing.**
